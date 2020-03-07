@@ -4,9 +4,9 @@ A neural network that performs object detection on images containing pedestrian 
 
 The neural network was trained using [TensorFlow's](https://tensorflow.org) Object Detection Library.
 
-The file [detection-inference-test.ipynb](detection-inference-test.ipynb) can be used to run object detection inference (recommended to run using Google Colab).
+The file [detection-inference-test.ipynb](utils/detection-inference-test.ipynb) can be used to run object detection inference (recommended to run using Google Colab).
 
-The file [Copy_of_tensorflow_object_detection_training_colab.ipynb](Copy_of_tensorflow_object_detection_training_colab.ipynb) was used to train the neural network (Also recommended to run using Google Colab).
+The file [Copy_of_tensorflow_object_detection_training_colab.ipynb](utils/Copy_of_tensorflow_object_detection_training_colab.ipynb) was used to train the neural network (Also recommended to run using Google Colab).
 
 The [Utils](utils) folder contains python files used to load and process the training and validation images used.
 
