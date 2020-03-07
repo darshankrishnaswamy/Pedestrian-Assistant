@@ -30,3 +30,6 @@ The neural network's output appears similarly to the following images:
 
 ![Image 3](Sample-Output/img3.jpg) ![Image 4](Sample-Output/img4.jpg)
 
+## Thesis
+
+More information about this project, including background information, results, and interpretation of results can be found in the [Thesis](Project%20Thesis.pdf) file
