@@ -25,3 +25,8 @@ The [LabelImg](https://pypi.org/project/labelImg/) software for annotating and l
 ## Sample Output
 
 The neural network's output appears similarly to the following images:
+
+![Image 1](Images/img1.jpg) ![Image 2](Images/img2.jpg)
+
+![Image 3](Images/img3.jpg) ![Image 4](Images/img4.jpg)
+
