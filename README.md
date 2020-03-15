@@ -32,4 +32,4 @@ The neural network's output appears similarly to the following images:
 
 ## Thesis
 
-More information about this project, including background information, results, and interpretation of results can be found in the [Thesis](Project%20Thesis.pdf) file
+More information about this project, including background information, results, and interpretation of results can be found in the [Project Thesis](Project%20Thesis.pdf) file
