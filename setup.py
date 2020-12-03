@@ -4,6 +4,7 @@ from setuptools import find_packages, setup
 DISTNAME = "Pedestrian Assistant"
 AUTHOR = "Darshan Krishnaswamy"
 AUTHOR_EMAIL = "darsh797@gmail.com"
+LICENSE = "MIT"
 
 INSTALL_REQUIRES = ["numpy >= 1.12", "numba >= 0.38"]
 
@@ -14,6 +15,7 @@ setup(
     name=DISTNAME,
     author=AUTHOR,
     author_email=AUTHOR_EMAIL,
+    license = LICENSE,
     description=DESCRIPTION,
     install_requires=INSTALL_REQUIRES,
     python_requires=">=3.6",
