@@ -1,6 +1,5 @@
 from setuptools import find_packages, setup
 
-import versioneer
 
 DISTNAME = "Pedestrian Assistant"
 AUTHOR = "Darshan Krishnaswamy"
@@ -13,8 +12,6 @@ DESCRIPTION = "An object detection neural network that detects and classifies pe
 
 setup(
     name=DISTNAME,
-    version=versioneer.get_version(),
-    cmdclass=versioneer.get_cmdclass(),
     author=AUTHOR,
     author_email=AUTHOR_EMAIL,
     description=DESCRIPTION,
