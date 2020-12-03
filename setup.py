@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 import versioneer
 
-DISTNAME = "Pedestrian"
+DISTNAME = "Pedestrian Assistant"
 AUTHOR = "Darshan Krishnaswamy"
 AUTHOR_EMAIL = "darsh797@gmail.com"
 
